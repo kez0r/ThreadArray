@@ -1,0 +1,10 @@
+C:\Users\Shawn\AppData\Local\Temporary Projects\ThreadArray\bin\Debug\ThreadArray.exe.config
+C:\Users\Shawn\Documents\Visual Studio 2013\Projects\ThreadArray\ThreadArray\bin\Debug\ThreadArray.exe.config
+C:\Users\Shawn\Documents\Visual Studio 2013\Projects\ThreadArray\ThreadArray\bin\Debug\ThreadArray.exe
+C:\Users\Shawn\Documents\Visual Studio 2013\Projects\ThreadArray\ThreadArray\bin\Debug\ThreadArray.pdb
+C:\Users\Shawn\Documents\Visual Studio 2013\Projects\ThreadArray\ThreadArray\obj\Debug\ThreadArray.csprojResolveAssemblyReference.cache
+C:\Users\Shawn\Documents\Visual Studio 2013\Projects\ThreadArray\ThreadArray\obj\Debug\ThreadArray.FrmMain.resources
+C:\Users\Shawn\Documents\Visual Studio 2013\Projects\ThreadArray\ThreadArray\obj\Debug\ThreadArray.Properties.Resources.resources
+C:\Users\Shawn\Documents\Visual Studio 2013\Projects\ThreadArray\ThreadArray\obj\Debug\ThreadArray.csproj.GenerateResource.Cache
+C:\Users\Shawn\Documents\Visual Studio 2013\Projects\ThreadArray\ThreadArray\obj\Debug\ThreadArray.exe
+C:\Users\Shawn\Documents\Visual Studio 2013\Projects\ThreadArray\ThreadArray\obj\Debug\ThreadArray.pdb
